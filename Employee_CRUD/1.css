@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+}
+
+.title {
+  background-color: rgba(0, 0, 0, 0.45);
+}
+
+.form-group {
+  width: 100vh;
+}
